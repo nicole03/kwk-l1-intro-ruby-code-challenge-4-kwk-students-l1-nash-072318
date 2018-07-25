@@ -6,7 +6,7 @@ def least_coins(cents)
   least_coins2["dimes"] = 0 
   least_coins2["nickels"] = 0 
   least_coins2["pennies"] = 4 
-  puts cents 
+  puts least_coins2
 
 end
 least_coins (29)
